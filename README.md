@@ -1,2 +1,2 @@
-# npm install react--scripts
+# npm install react--script
 #npm start
